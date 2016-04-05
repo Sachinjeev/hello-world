@@ -1,0 +1,4 @@
+c:\Users\sachin.revanna\documents\visual studio 2015\Projects\MVCPluralDemo\eManager.Domain\bin\Debug\eManager.Domain.dll
+c:\Users\sachin.revanna\documents\visual studio 2015\Projects\MVCPluralDemo\eManager.Domain\bin\Debug\eManager.Domain.pdb
+c:\Users\sachin.revanna\documents\visual studio 2015\Projects\MVCPluralDemo\eManager.Domain\obj\Debug\eManager.Domain.dll
+c:\Users\sachin.revanna\documents\visual studio 2015\Projects\MVCPluralDemo\eManager.Domain\obj\Debug\eManager.Domain.pdb
